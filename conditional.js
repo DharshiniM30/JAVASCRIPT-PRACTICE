@@ -4,3 +4,5 @@ if(false){
 else{
     console.log("IT IS FALSE")
 }
+console.log(false && true && true)
+console.log(true || false || false)
